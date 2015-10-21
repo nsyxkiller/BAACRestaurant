@@ -29,8 +29,8 @@
             android:layout_height="wrap_content"
             android:text="99"
             android:id="@+id/txtShowPrice"
-            android:textSize="90sp"
+            android:textSize="75sp"
             android:textStyle="bold"
-            android:textColor="@color/accent_material_light" />
+            android:textColor="#f95f06" />
     </LinearLayout>
 </LinearLayout>

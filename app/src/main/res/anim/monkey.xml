@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    id = "selected"
+    android:oneshot="false">
+
+    <item
+        android:drawable="@drawable/monkey_flying1"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/monkey_flying2"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/monkey_flying3"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/monkey_flying4"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/monkey_flying5"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/monkey_flying6"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/monkey_flying7"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/monkey_flying8"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/monkey_flying9"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/monkey_flying10"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/monkey_flying11"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/monkey_flying12"
+        android:duration="100" />
+</animation-list>
